@@ -1,5 +1,7 @@
 # XJTLYOU-HHT-Portal
 As the name saying:
+# IOS快捷指令版更新！
+## https://www.icloud.com/shortcuts/ebc8487f17a64071936f19306fab5253
 
 ## 用于验证门禁，原理如main.py所言。
 
