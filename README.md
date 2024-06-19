@@ -1,4 +1,4 @@
-# XJTLYOU-HHT-Portal
+# HHT-QR-Portal
 As the name saying:
 # IOS快捷指令版更新！
 ## https://www.icloud.com/shortcuts/ebc8487f17a64071936f19306fab5253
@@ -14,4 +14,3 @@ As the name saying:
 ### pip install requests json qrcode
 
 #
-![image](https://github.com/qunerCloud/XJTLYOU-HHT-Portal/blob/main/Screenshot%202023-09-09%20at%209.33.13%20PM.png)
